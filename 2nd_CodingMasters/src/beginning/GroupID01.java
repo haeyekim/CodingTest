@@ -16,7 +16,7 @@ package beginning;
 
 import java.util.*;
 
-public class groupID_01 {
+public class GroupID01 {
 
 	static int N; // 정점 개수
 	static int M; // 간선 개수

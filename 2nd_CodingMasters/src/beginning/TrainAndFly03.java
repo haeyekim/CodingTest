@@ -15,7 +15,7 @@ package beginning;
 
 import java.util.*;
 
-public class trainAndFly_03 {
+public class TrainAndFly03 {
 
 	static int X, Y, Z;
 

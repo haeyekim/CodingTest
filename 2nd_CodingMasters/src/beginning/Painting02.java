@@ -11,7 +11,7 @@ package beginning;
 
 import java.io.*;
 
-public class painting_02 {
+public class Painting02 {
 
 	static char[][] painting = new char[4][4];
 	static int[] dr = {0, 1, 1}; // 오른쪽, 아래, 오른쪽 대각선 아래
